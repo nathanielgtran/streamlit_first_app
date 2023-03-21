@@ -7,10 +7,10 @@ st.write(''' this us our first web app
 wow very nice!
 :D
 
-( •_•)
-( •_•)
-( •_•)
-( •_•)
+\n( •_•)
+\n( •_•)
+\n( •_•)
+\n( •_•)
 
 
 
