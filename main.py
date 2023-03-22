@@ -4,7 +4,7 @@ import pandas as pd
 st.title('Our first Streamlit App')
 st.subheader('intro to streamlit and automate everything with python')
 
-data{
+data = {
   'Series_1':[1,2,4,5,9],
   'Series_2':[11,22,66,144,255,]
 }
