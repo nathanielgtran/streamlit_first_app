@@ -9,7 +9,7 @@ data = {
   'Series_2':[11,22,66,144,255,]
 }
 
-df = pd.Dataframe(data)
+df = pd.DataFrame(data)
 
 
 
